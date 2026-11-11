@@ -89,10 +89,11 @@ You can keep the dataset and PBIX file in the repository root instead. If you do
 
 ## Author
 
-**Shubham Kumar**  
-MBA – Business Analytics  
-Anurag University
+**Harshit Kumar Pandey**\
+MBA -- Business Analytics\
+Interested in Data Analytics, Business Intelligence, and data-driven
+decision-making.
 
----
+------------------------------------------------------------------------
 
-If you find this project useful, feel free to explore the report and its interactive filters.
+If you find this project useful, feel free to ⭐ the repository.
