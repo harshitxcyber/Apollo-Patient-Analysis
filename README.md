@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** for exploring patient demographics, diabet
 
 Add the dashboard screenshot to the repository and name it `dashboard.png` (or update the path below to match your filename).
 
-![Apollo-Patient-Analysis](dashboard.png)
+![Apollo-Patient-Analysis](Dashboard.png)
 
 ## Project Overview
 
