@@ -97,3 +97,7 @@ decision-making.
 ------------------------------------------------------------------------
 
 If you find this project useful, feel free to ⭐ the repository.
+
+## Disclaimer
+
+This dashboard is a data-analytics portfolio/academic project. Company names and labels are used to describe the dataset and dashboard subject. The analysis is based on the dataset provided with this repository and should not be interpreted as an official company report or as independently audited financial information.
